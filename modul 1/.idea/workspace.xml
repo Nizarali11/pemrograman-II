@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17458c6e-581c-4074-83d2-59f72a0bd995" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MODUL 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MODUL1_2210817310012_NIZARALI.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MODUL3_2210817310012_NIZARALI.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PRAK1/PRAK001_2210817310012_nizarali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PRAK1/PRAK002_2210817310012_nizarali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PRAK1/PRAK003_2210817310012_nizarali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PRAK1/PRAK004_2210817310012_nizarali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PRAK1/PRAK005_2210817310012_nizarali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$odul 1.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ZWLFEQwjRgwabwLT0eQPdc5Q8n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/SMESTER 3/PRAK PEMO 2/modul 1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17458c6e-581c-4074-83d2-59f72a0bd995" name="Changes" comment="" />
+      <created>1702532782599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702532782599</updated>
+    </task>
+    <servers />
+  </component>
+</project>
